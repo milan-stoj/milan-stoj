@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @milan-stoj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hey there, I'm Milan!
 
-<!---
-milan-stoj/milan-stoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+%7C+Problem+Solver;Always+Learning+New+Things;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F)
+  
+</div>
